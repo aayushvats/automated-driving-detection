@@ -15,7 +15,7 @@
         android:hardwareAccelerated="true">
        <meta-data
            android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyBPlh4_U5eMRDt4mE4Q3MzA7_mdtQqDh8g"/>
+           android:value="<_YOUR_GOOGLE_API_KEY_>"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
